@@ -25,7 +25,7 @@ Desarrollador Full Stack con más de 3 años de experiencia especializado en el 
 
 ### 💼 Experiencia Relevante
 
-**Iberconsulting Team** | *Full Stack & WordPress Developer*
+**PARALEGAL IBERCONSULTING TEAM** | *Full Stack & WordPress Developer*
 * Desarrollo de arquitecturas web personalizadas y mantenimiento técnico avanzado para clientes internacionales.
 * Optimización de conversión y rendimiento web (Core Web Vitals) bajo estándares europeos.
 
