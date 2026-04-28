@@ -14,7 +14,7 @@ Desarrollador Full Stack con más de 3 años de experiencia especializado en el 
 
 ---
 
-### 🚀 Proyecto Destacado:(https://sofia-ia-dental.vercel.app/)
+### 🚀 Proyecto Destacado: [Sofía IA - Asistente Dental](https://github.com/proyectos29-cloud/sofia-ia)
 
 **Sofía IA** es un agente de triaje clínico autónomo que resuelve el agendamiento y la atención al cliente sin dependencias de APIs externas costosas.
 * **Logro Técnico:** Motor de procesamiento de lenguaje natural (NLP) ligero mediante **Vanilla JavaScript**.
