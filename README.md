@@ -40,25 +40,6 @@ Especialización en respuesta a incidentes de seguridad en aplicaciones web crí
 * Desarrollo e implementación de ecosistemas de agendamiento inteligente y lógica de negocio a medida para clínicas y directores del sector salud.
 * Arquitectura y despliegue de flujos de trabajo automatizados complejos mediante **n8n** para interconectar herramientas de marketing, CRMs y sistemas propietarios sin saturar recursos del servidor.
 
----
-
-### 📊 Actividad de Desarrollo
-
----
-
-### 📊 Métricas y Actividad
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Despliegues-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Código-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Entorno-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Seguridad-Hardening-red?style=for-the-badge&logo=proshield&logoColor=white" alt="Seguridad" />
-</p>
-
----
-
----
-
 ### 🎓 Educación y Certificaciones
 
 * **Diplomado Profesional en Desarrollo Full Stack** | Fundación Carlos Slim.
