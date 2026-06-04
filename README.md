@@ -45,7 +45,7 @@ Especialización en respuesta a incidentes de seguridad en aplicaciones web crí
 ### 📊 Actividad de Desarrollo
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proyectos29-cloud&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=proyectos29-cloud&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
