@@ -44,9 +44,18 @@ Especialización en respuesta a incidentes de seguridad en aplicaciones web crí
 
 ### 📊 Actividad de Desarrollo
 
+---
+
+### 📊 Métricas y Actividad
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proyectos29-cloud&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://img.shields.io/badge/Despliegues-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Código-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Entorno-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Seguridad-Hardening-red?style=for-the-badge&logo=proshield&logoColor=white" alt="Seguridad" />
 </p>
+
+---
 
 ---
 
